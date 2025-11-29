@@ -14,12 +14,16 @@ The repository includes:
 ├── data/
 │ ├── sample_data.csv
 │ └── README.md (dataset link)
+
 ├── notebooks/
 │ └── model_training.ipynb
+
 ├── app/
 │ └── app.py
+
 ├── models/
 │ └── best_model.pkl
+
 ├── requirements.txt
 └── README.md
 
