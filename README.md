@@ -10,6 +10,8 @@ The repository includes:
 - Sample dataset
 - Documentation and instructions for running the project
 
+---
+
 ## 📁 Project Structure
 ├── data/
 │ ├── sample_data.csv
