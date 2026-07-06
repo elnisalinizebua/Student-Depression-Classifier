@@ -13,15 +13,15 @@ The repository includes:
 ---
 
 ## 📁 Project Structure
-├── data/
-│ ├── sample_data.csv
-│ └── README.md (dataset link)
+├── data
+  ├── sample_data.csv
+     └── README.md (dataset link)
 
 ├── notebooks/
-│ └── model_training.ipynb
+   └── model_training.ipynb
 
 ├── app/
-│ └── app.py
+   └── app.py
 
 ├── models/
 │ └── best_model.pkl
